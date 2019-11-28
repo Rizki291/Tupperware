@@ -1,0 +1,72 @@
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MaterialSkin.dll
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Rizki Kurniawan\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Rizki Kurniawan\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Transaksi.resources
+C:\Users\Rizki Kurniawan\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MemberList.resources
+C:\Users\Rizki Kurniawan\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Adduser.resources
+C:\Users\Rizki Kurniawan\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CariMember.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.Design.dll
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.dll
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.Fonts.dll
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CariMember.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.History.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Adduser.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MemberList.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Transaksi.resources
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Tupperware\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CariBarang.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CariBarang.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CariMember.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.History.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Adduser.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MemberList.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Transaksi.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.Design.dll
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.dll
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\MetroFramework.Fonts.dll
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Intro.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\itextsharp.dll
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\bin\Debug\itextsharp.xml
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.HistoryDetail.resources
+D:\Programing\Programing Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MainMenu.resources
